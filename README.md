@@ -1,8 +1,7 @@
 # Snakes N Ladders
 
 ## Demo Video
-[![Snakes and Ladders Demo Video]](https://www.youtube.com/watch?v=cGdxG2YemFw "Snakes and Ladders Demo Video")
-
+[Watch the project demo on YouTube](https://www.youtube.com/watch?v=cGdxG2YemFw "Snakes and Ladders Demo Video)
 ## Features
 
 - Multi-client support with up to 4 players.
