@@ -16,35 +16,22 @@
 - Ensure you have the board image `BoardImage.png` in the root directory.
 
 ## Installation
-```markdown
-1. Clone the repository:
-```sh
-   git clone https://github.com/yourusername/snakes-and-ladders.git
-```markdown
-3. Switch to correct directory:
-```sh
-   cd snakes-and-ladders
-```markdown
-5. Install the required Python packages:
-```sh
-   pip install pygame
-```markdown
-## Usage
 
-1. Run the server:
-```sh
-    python3 server.py -host localhost -port 8088
-```markdown
-2. Run the client:
-```sh
-    python3 client.py -host localhost -port 8088
-```markdown
+Clone the repository:
+```bash
+git clone https://github.com/yourusername/snakes-and-ladders.git
+```
+Switch to the correct directory:
+```bash
+cd snakes-and-ladders
+```
+Install the required Python packages:
+```bash
+pip install pygame
+```
 ## Game Controls
 
-The first player to click the "Start" button will initiate the game when the minimum number of players is connected.
-
-Players take turns to roll the dice and move their pieces accordingly.
-
-When a player lands on a snake or ladder, their position is automatically updated.
-
-The first player to reach position 100 wins the game.
+- The first player to click the "Start" button will initiate the game when the minimum number of players is connected.
+- Players take turns to roll the dice and move their pieces accordingly.
+- When a player lands on a snake or ladder, their position is automatically updated.
+- The first player to reach position 100 wins the game.
