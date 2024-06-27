@@ -1,1 +1,46 @@
 # Snakes N Ladders
+
+## Features
+
+- Multi-client support with up to 4 players.
+- Real-time updates of player positions on the board.
+- Automatic handling of snakes and ladders.
+- Simple and intuitive graphical interface using Pygame.
+- Turn-based dice rolling with visual feedback.
+
+## Prerequisites
+
+- Python 3.6+
+- Pygame
+- Ensure you have the assets `Player_red.png`, `Player_blue.png`, `Player_green.png`, `Player_yellow.png`, and `dice1.png`, `dice_disabled.png` in the `assets` directory.
+- Ensure you have the board image `BoardImage.png` in the root directory.
+
+## Installation
+
+1. Clone the repository:
+    git clone https://github.com/yourusername/snakes-and-ladders.git
+    cd snakes-and-ladders
+
+2. Install the required Python packages:
+
+    pip install pygame
+
+## Usage
+
+1. Run the server:
+
+    python3 server.py -host localhost -port 8088
+
+2. Run the client:
+
+    python3 client.py -host localhost -port 8088
+
+## Game Controls
+
+The first player to click the "Start" button will initiate the game when the minimum number of players is connected.
+
+Players take turns to roll the dice and move their pieces accordingly.
+
+When a player lands on a snake or ladder, their position is automatically updated.
+
+The first player to reach position 100 wins the game.
