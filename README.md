@@ -19,25 +19,25 @@
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/snakes-and-ladders.git
+  'git clone https://github.com/yourusername/snakes-and-ladders.git'
 
 3. Switch to correct directory:
 
-   cd snakes-and-ladders
+   'cd snakes-and-ladders'
 
 5. Install the required Python packages:
 
-   pip install pygame
+   'pip install pygame'
 
 ## Usage
 
 1. Run the server:
 
-    python3 server.py -host localhost -port 8088
+    'python3 server.py -host localhost -port 8088'
 
 2. Run the client:
 
-    python3 client.py -host localhost -port 8088
+    'python3 client.py -host localhost -port 8088'
 
 ## Game Controls
 
