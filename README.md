@@ -1,7 +1,7 @@
 # Snakes N Ladders
 
 ## Demo Video
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=cGdxG2YemFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Snakes and Ladders Demo Video]](https://www.youtube.com/watch?v=cGdxG2YemFw "Snakes and Ladders Demo Video")
 
 ## Features
 
