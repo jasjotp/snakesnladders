@@ -18,12 +18,16 @@
 ## Installation
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/snakes-and-ladders.git
-    cd snakes-and-ladders
 
-2. Install the required Python packages:
+   git clone https://github.com/yourusername/snakes-and-ladders.git
 
-    pip install pygame
+3. Switch to correct directory:
+
+   cd snakes-and-ladders
+
+5. Install the required Python packages:
+
+   pip install pygame
 
 ## Usage
 
