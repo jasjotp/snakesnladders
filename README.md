@@ -20,25 +20,25 @@
 1. Clone the repository:
 ```sh
    git clone https://github.com/yourusername/snakes-and-ladders.git
-
+'''
 3. Switch to correct directory:
 ```sh
    cd snakes-and-ladders
-
+'''
 5. Install the required Python packages:
 ```sh
    pip install pygame
-
+'''
 ## Usage
 
 1. Run the server:
 ```sh
     python3 server.py -host localhost -port 8088
-
+'''
 2. Run the client:
 ```sh
     python3 client.py -host localhost -port 8088
-
+'''
 ## Game Controls
 
 The first player to click the "Start" button will initiate the game when the minimum number of players is connected.
